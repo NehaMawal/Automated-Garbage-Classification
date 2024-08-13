@@ -25,7 +25,7 @@
 
 ### Deployment
 * **Model Deployment**: Successfully deployed on Hugging Face, enabling interaction and testing in real-world scenarios.
-* **Access the Model**: [Model on Hugging Face](https://huggingface.co/spaces/NehaMaw/GarbageClassifier_Capstone))
+* **Access the Model**: [Model on Hugging Face](https://huggingface.co/spaces/NehaMaw/GarbageClassifier_Capstone)
 
 ### Business Questions
 * How can we accurately classify different types of garbage using deep learning?
