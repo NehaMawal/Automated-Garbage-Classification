@@ -20,7 +20,7 @@
   * **ResNet50**
   * **InceptionV3**
   * **DenseNet121** *(Top Performer with 91.42% validation accuracy)*
-  * **EfficientNetB0*
+  * **EfficientNetB0**
 * DenseNet121 was selected for deployment due to its superior performance.
 
 ### Deployment
